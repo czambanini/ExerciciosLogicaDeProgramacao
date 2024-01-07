@@ -2,13 +2,13 @@
 Exercicios propostos no fim do módulo Programação Orientada a Objetos I, em C#, do curso oferecido pela Ada.
 
 # Índice
-  1. CONVERSOR CELSIUS X FAHRENHEIT
-  2. VERIFICA SE UM NÚMERO É PRIMO
-  3. CALCULADORA DE FATORIAL
-  4. ORDENAR ARRAY: CRESCENTE
-  5. VERIFICA SE A PALAVRA É UM PALÍNDROMO
-  6. CALCULADORA DE RAIZ QUADRADA
-  7. CONVERSÃO DE REAIS PARA DOLARES
-  8. VALIDAÇÃO DE SENHA
-  9. VALIDAÇÃO DE CPF
-  10. CALCULA QUANTAS VEZES CADA PALAVRA FOI REPETIDA
+  1. Conversor celsius x fahrenheit
+  2. Verifica se um número é primo
+  3. Calculadora de fatorial
+  4. Ordenar array: crescente
+  5. Verifica se a palavra é um palíndromo
+  6. Calculadora de raiz quadrada
+  7. Conversão de reais para dolares
+  8. Validação de senha
+  9. Validação de cpf
+  10. Calcula quantas vezes cada palavra foi repetida
